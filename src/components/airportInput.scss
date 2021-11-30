@@ -1,0 +1,33 @@
+.airport-search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    &__title{
+        font-size: 60px;
+        font-weight: 300;
+    }
+    &__form{
+        display: flex;
+        margin-top: 20px;
+    }
+    &__input{
+        height:80px;
+        aspect-ratio: 5;
+        text-align: center;
+        border: none;
+        outline: none;
+        font-size: 25px;
+    }
+    &__btn{
+        background-color: #1FB7EE;
+        color: white;
+        font-weight: 600;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        aspect-ratio: 2;
+        border-radius: 0% 50% 0% 0%;
+    }
+}
