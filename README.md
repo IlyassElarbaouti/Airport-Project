@@ -1,6 +1,6 @@
 # AIRPORT_Project
 
-**[Site link](https://elegant-einstein-6cc808.netlify.app/)**
+**[Site link](https://ievairport.netlify.app/)**
 
 The tech stack is:
 
